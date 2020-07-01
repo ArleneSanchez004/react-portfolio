@@ -15,6 +15,9 @@ function App() {
           Welcome to Arlene's portfolio
         </p>
       </header>
+      <footer>
+        <Footer />
+      </footer>
     </div>
   );
 }
