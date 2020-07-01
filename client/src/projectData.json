@@ -1,15 +1,35 @@
 {
     "projects" : [
         {
-            "title": "test title",
+            "title": "Fun Finder",
             "githubUrl": "https://github.com/EDowning2000/TravelBuddy",
             "imgSrc": "assets/images/FunFinder.PNG"
             
         },
         {
-            "title": "hello test",
+            "title": "Password Generator",
             "githubUrl": "https://github.com/ArleneSanchez004/password-generator",
             "imgSrc": "assets/images/PasswordGenerator.PNG"
+        },
+        {
+            "title": "Employee Management System",
+            "githubUrl": "https://github.com/ArleneSanchez004/employee-management-system",
+            "imgSrc": "assets/images/EmployeeManagementSystem.PNG"
+        },
+        {
+            "title": "Daily Task Organizer",
+            "githubUrl": "https://github.com/ArleneSanchez004/daily-task-organizer",
+            "imgSrc": "assets/images/WorkDayScheduler.PNG"
+        },
+        {
+            "title": "Movie A Lister",
+            "githubUrl": "https://github.com/JesikaRenea/Project2_Group1",
+            "imgSrc": "assets/images/MovieALister.PNG"
+        },
+        {
+            "title": "Team Template",
+            "githubUrl": "https://github.com/ArleneSanchez004/team-template",
+            "imgSrc": "assets/images/TeamTemplate.PNG"
         }
     ]
 }
