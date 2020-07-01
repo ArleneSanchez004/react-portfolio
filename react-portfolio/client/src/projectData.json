@@ -1,0 +1,15 @@
+{
+    "projects" : [
+        {
+            "title": "test title",
+            "githubUrl": "https://github.com/EDowning2000/TravelBuddy",
+            "imgSrc": "assets/images/FunFinder.PNG"
+            
+        },
+        {
+            "title": "hello test",
+            "githubUrl": "https://github.com/ArleneSanchez004/password-generator",
+            "imgSrc": "assets/images/PasswordGenerator.PNG"
+        }
+    ]
+}

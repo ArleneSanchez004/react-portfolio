@@ -1,20 +1,19 @@
 import React, { Component } from 'react';
-//import { Link } from "react-router-dom";
+import "../App.css";
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 
-class Footer extends Component{
-    // componentDidMount(){}
+class Footer extends Component {
 
-    render(){
+    render() {
         return (
-            <div className="Footer">
+            <footer className="footer">
                 <Navbar fixed="bottom">
-                    <Nav className="footer-nav justify-content-md-center">
+                    <Nav className="footer-nav justify-content-center">
                         <p>Copyright &copy;</p>
                     </Nav>
                 </Navbar>
-            </div>
+            </footer>
         )
     }
 }
