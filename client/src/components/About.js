@@ -10,7 +10,7 @@ function About(){
 
                 <div className="row">
                     <div className="col-sm-12 col-md-3">
-                        <img className="img-thumbnail" width="200" height="200" id="profilePic" src="assets/images/profile picture.jpg" alt="Profile" />
+                        <img className="img-thumbnail" width="200" height="200" id="profilePic" src="public\assets\images\profile picture.jpg" alt="Profile" />
                     </div>
                     <div className="col-sm-12 col-md-8 p-0 m-0 content">
                         <p>I graduated from the University of Central Florida in 2016 with a Bachelors in Digital Media Game Design. I'm currently a student at TES Coding Bootcamp for Web Design. I want to show you what I can do! Check out my portfolio while you're here. 
